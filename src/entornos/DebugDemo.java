@@ -8,7 +8,7 @@ public class DebugDemo {
     // Método para calcular el factorial de un número
     public static int factorial(int n) {
         int resultado = 1;
-        for (int i = 1; i <= n; i++) {
+        for (int i = 1; i <= n; i++) {    
             resultado *= i; // Aquí se calcula el factorial
         }
         return resultado;
