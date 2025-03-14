@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class DebugDemo {
 
-	//nueva adicion ASA
+	//nueva adicion ASAasd
 	
     // Método para calcular el factorial de un número
     public static int factorial(int n) {
